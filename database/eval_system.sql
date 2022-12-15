@@ -104,7 +104,7 @@ CREATE TABLE `smtp` (
 --
 
 INSERT INTO `smtp` (`Id`, `email`, `password`, `created_at`, `updated_at`) VALUES
-(1, 'fisheryapp092922@gmail.com', 'qwgjqojqbxywkcfq', '2022-12-11 03:55:00', '2022-12-11 12:07:40');
+(1, 'prognostix2022@gmail.com', 'ckomhjkfsevesoug', '2022-12-11 03:55:00', '2022-12-11 12:07:40');
 
 -- --------------------------------------------------------
 
